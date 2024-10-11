@@ -11,11 +11,13 @@ wscat -c ws://localhost/chat?id=Saif
 # private chat - WebSocket 
 
 {"msg":"hello saif, how are you ? ","receiver":"2fuzqIfui2g05IRH5vu5WNOxBLV","is_group":false}
+
 {"msg":" Im good, Thank you mark","receiver":"  ","is_group":false}
 
 # group chat - webSocket 
 
 {"msg":"hello everyone","is_group":true, "Group_name":"Facebook"}
+
 {"msg":"everyone is here, lets start","is_group":true, "Group_name":"Facebook"}
 
 
